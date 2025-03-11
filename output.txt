@@ -1,0 +1,6 @@
+[31mThis text will be red.[0m
+[32mThis text will be green.[0m
+[1mThis text will be bold.[0m
+[4mThis text will be underlined.[0m
+[10;20HThis text will move to a specific position.[0m
+[2J[33mThis text will be yellow.[0m
